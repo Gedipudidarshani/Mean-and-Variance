@@ -60,6 +60,7 @@ print("The Mean arrival rate is %.3f "%mean)
 print("The Variance of arrival from feeder is %.3f "%var) 
 print("The Standard deviation of arrival from feeder is %.3F "%SD)
 ```
-# Output : 
-![Alt text](<Screenshot (198).png>)
+# Output :
+![Screenshot 2023-12-28 142950](https://github.com/Gedipudidarshani/Mean-and-Variance/assets/139340574/a09cfd9c-0caa-4418-ac49-9bfcd5da73a3)
+
 # Result :
